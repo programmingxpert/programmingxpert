@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I prefer human creativity over AI. Even though AI has potential to change the world!
 
 
-### My Main Projects
+## My Main Projects
 
 Under Construction :)
 
