@@ -19,4 +19,17 @@ Under Construction :)
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=programmingxpert&theme=gruvbox&layout=compact)
   
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=programmingxpert&count_private=true&show_icons=true&theme=gruvbox&custom_title=Github%20Stats)
-![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=programmingxpert&theme=gruvbox&layout=compact&langs_count=8)
+<div>
+  
+  ## Things i know
+
+- Python
+- HTML, CSS & Javascript
+- Node.js
+- Typescript & Deno
+- Ejs & React
+- Golang
+- Rust
+- Sitting Lazy ;)
+  
+  <div/>
