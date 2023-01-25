@@ -1,11 +1,14 @@
-### Hi there 👋
+### Hey, I'm here!
 
-- 🔭 I’m currently working on ssfvsv
-- 🌱 I’m currently learning cc
-- 👯 I’m looking to collaborate on csvs
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😁 Hi, I'm Satya, a fullstack developer and a highschool student!
+- 😄 I like Javascript and Python! I do know a lot other languages though!
+- 🤔 Currently working on a website!
+- 📫 Join my discord server, Let's Talk! https://discord.gg/ehuFKH88SM
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I prefer human creativity over AI. Even though AI has potential to change the world!
+
+
+### My Main Projects
+
+Under Construction :)
 
