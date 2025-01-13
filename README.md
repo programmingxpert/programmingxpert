@@ -4,9 +4,9 @@
 - 😁 Hi, I'm Satya, a fullstack developer and a high school student!
 - 😄 I like JavaScript and Python! I know a lot of other languages too!
 - 🤔 Currently working on a website!
-- 📫 Join my Discord server, Let's Talk! [Discord](https://discord.gg/ehuFKH88SM)
+- 📫 Join my Discord server, Let's Talk! [Discord](https://discord.gg/zWTG726Njz)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I prefer human creativity over AI, even though AI has the potential to change the world!
+- ⚡ Tech-savvy with a keyboard, turning logic into magic and bugs into features
 
 ## My Stats
 
@@ -31,7 +31,7 @@
 ## Contact Me
 
 - **Twitter/X:** [@YukiOnRblx](https://x.com/YukiOnRblx)
-- **Discord:** (@yukionrblx)
+- **Discord:** (@yaboiyuki)
 - **Mail:** [Gmail](mailto:smartlearningjojo@gmail.com)
 
 ## Acknowledgements
