@@ -30,7 +30,7 @@
 
 ## Contact Me
 
-- **Twitter/X:** [@YukiOnRblx](https://x.com/YukiOnRblx)
+- **Twitter/X:** [@YukiOnRblx](https://x.com/programmingxper)
 - **Discord:** (@yaboiyuki)
 - **Mail:** [Gmail](mailto:smartlearningjojo@gmail.com)
 
