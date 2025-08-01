@@ -1,7 +1,7 @@
 # Hey, I'm here!
 ![Profile View Counter](https://komarev.com/ghpvc/?username=programmingxpert&style=flat-square)
 
-- 😁 Hi, I'm Satya, a fullstack developer and a high school student!
+- 😁 Hi, I'm Satya, a fullstack developer and a college student!
 - 😄 I like JavaScript and Python! I know a lot of other languages too!
 - 🤔 Currently working on a website!
 - 📫 Join my Discord server, Let's Talk! [Discord](https://discord.gg/zWTG726Njz)
