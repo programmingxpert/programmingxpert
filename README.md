@@ -53,7 +53,10 @@ focus     AI / ML Engineering
 degree    BCA (Hons), AI/ML
 base      Bangalore, India
 status    Open to Internships
-
+```
+</td>
+</tr>
+</table>
 ---
 
 <div align="center">
