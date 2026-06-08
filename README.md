@@ -32,30 +32,27 @@
 <tr>
 <td width="54%" valign="top">
 
-### &nbsp;about
+### about
 
-I'm Satyasundar, a BCA (Hons) student specialising in AI and ML. I care about how things actually work: why models fail, how inference scales, what makes a system design decision defensible six months later.
+I'm Satyasundar, a BCA (Hons) student specialising in AI and ML.
 
-Currently building: real projects, a working understanding of ML from fundamentals up, DSA skills that hold under pressure, and a habit of reading source code instead of just docs.
+My interests sit at the intersection of software engineering, machine learning, and system design. I like understanding not just what works, but why it works, and where it breaks.
 
-Looking for internships where the work is real.
+These days you'll usually find me building projects, studying AI/ML, solving DSA problems, or diving into codebases that are far bigger than my comfort zone.
+
+Currently focused on becoming the kind of engineer who can take an idea from a blank page to a working product.
 
 </td>
 <td width="46%" valign="top" align="right">
 
-```
+```text
 name      Satyasundar Behera
 focus     AI / ML Engineering
           Systems & Architecture
           Algorithms + DSA
-degree    BCA Hons, AI/ML Spec.
-base      Bangalore, IN
-status    open to internships
-```
-
-</td>
-</tr>
-</table>
+degree    BCA (Hons), AI/ML
+base      Bangalore, India
+status    Open to Internships
 
 ---
 
