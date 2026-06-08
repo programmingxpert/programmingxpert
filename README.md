@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=AI+%2F+ML+Engineering;systems+thinking+%7C+problem+solving+%7C+building;open+source+%7C+internships+%7C+real+work;Bangalore%2C+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=AI+%2F+ML+Engineering;systems+thinking+%7C+problem+solving+%7C+building;open+source+%7C+internships+%7C+real+work;from+curiosity+to+code)](https://git.io/typing-svg)
 
 </div>
 
