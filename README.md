@@ -45,7 +45,7 @@ Currently focused on becoming the kind of engineer who can take an idea from a b
 </td>
 <td width="46%" valign="top" align="right">
 
-```text
+
 name      Satyasundar Behera
 focus     AI / ML Engineering
           Systems & Architecture
@@ -53,11 +53,10 @@ focus     AI / ML Engineering
 degree    BCA (Hons), AI/ML
 base      Bangalore, India
 status    Open to Internships
-```
+
 </td>
 </tr>
 </table>
----
 
 <div align="center">
 
