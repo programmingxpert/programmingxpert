@@ -43,16 +43,26 @@ These days you'll usually find me building projects, studying AI/ML, solving DSA
 Currently focused on becoming the kind of engineer who can take an idea from a blank page to a working product.
 
 </td>
-<td width="46%" valign="top" align="right">
+<td width="46%" valign="top">
 
+### details
 
-name      Satyasundar Behera
-focus     AI / ML Engineering
-          Systems & Architecture
-          Algorithms + DSA
-degree    BCA (Hons), AI/ML
-base      Bangalore, India
-status    Open to Internships
+**Name**  
+Satyasundar Behera
+
+**Focus**  
+AI / ML Engineering  
+Systems & Architecture  
+Algorithms & DSA
+
+**Degree**  
+BCA (Hons), AI/ML Specialization
+
+**Location**  
+Bangalore, India
+
+**Status**  
+Open to internships
 
 </td>
 </tr>
