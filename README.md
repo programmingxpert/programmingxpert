@@ -41,6 +41,7 @@ My interests sit at the intersection of software engineering, machine learning, 
 These days you'll usually find me building projects, studying AI/ML, solving DSA problems, or diving into codebases that are far bigger than my comfort zone.
 
 Currently focused on becoming the kind of engineer who can take an idea from a blank page to a working product.
+<br>
 
 </td>
 
