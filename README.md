@@ -1,19 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header" width="100%"/>
 
 </div>
 
 <div align="center">
 
 ```
- ___  __  ____  _  _  __
-/ __)(  )(_  _)( \/ )/ _\
-\__ \ )(   )(   \  //    \
-(___/(__) (__)  (__) \_/\_/
+   _____    ___   ________  __    ___ 
+  / ___/   /   | /_  __/\ \/ /   /   |
+  \__ \   / /| |  / /    \  /   / /| |
+ ___/ /  / ___ | / /     / /   / ___ |
+/____/  /_/  |_|/_/     /_/   /_/  |_|
 ```
 
-### building things that actually work
+**`Satyasundar Behera`** &nbsp;·&nbsp; Bangalore, India
 
 </div>
 
@@ -21,34 +22,37 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=software+engineer+in+progress;AI+%2F+ML+%E2%80%94+learning+it+properly%2C+not+just+vibes;full+stack+%7C+open+source+%7C+building+in+public;Bangalore+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=AI+%2F+ML+Engineer+in+the+making;systems+thinker+%7C+problem+solver+%7C+builder;learning+the+fundamentals%2C+not+just+the+APIs;open+source+%7C+internships+%7C+real+projects)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="center" border="0">
 <tr>
-<td width="55%" valign="top">
+<td width="54%" valign="top">
 
-### who i am
+### &nbsp;about
 
-I'm Satya — a CS student at Bangalore specializing in AI/ML, spending most of my time writing code, breaking it, and occasionally shipping something I'm proud of.
+I'm a CS student specializing in AI/ML — not the "I used ChatGPT" kind, the actual kind. I care about how things work under the hood: why models fail, how systems scale, what makes an architecture decision defensible.
 
-I care about writing software that's well-engineered, not just functional. Currently grinding DSA, diving deep into AI/ML fundamentals, and building real projects — the kind that go beyond tutorials.
+Currently: grinding DSA, going deep on ML fundamentals, contributing to open source, and building projects that go beyond localhost. The goal is to become someone who can walk into any technical room and hold their own.
 
-No fluff. No buzzwords. Just building.
+Available for internships where the problems are real.
 
 </td>
-<td width="45%" valign="top" align="right">
+<td width="46%" valign="top" align="right">
 
-**currently**
 ```yaml
-role:       BCA (Hons) — AI/ML
-focus:      [ DSA, ML, Full Stack ]
-location:   Bangalore, IN
-open to:    internships, collabs
-status:     building > planning
+name:       Satyasundar Behera
+focus:      AI / ML Engineering
+            Systems Design
+            Algorithms & DSA
+education:  BCA (Hons) — AI/ML
+            Bangalore, IN
+status:     open to internships
+            & collaborations
+mindset:    depth > breadth
 ```
 
 </td>
@@ -59,7 +63,7 @@ status:     building > planning
 
 <div align="center">
 
-## stack
+## &nbsp;technical stack
 
 <br/>
 
@@ -71,20 +75,21 @@ status:     building > planning
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-**tools & platforms**
+**tools & infrastructure**
 
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
-**learning**
+**AI / ML — actively studying**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=375BD2)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
 
 </div>
 
@@ -92,16 +97,17 @@ status:     building > planning
 
 <div align="center">
 
-## stats
+## &nbsp;github stats
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=programmingxpert&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmingxpert&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&layout=compact&langs_count=7"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=programmingxpert&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true"/>
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmingxpert&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&layout=compact&langs_count=7"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=programmingxpert&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=programmingxpert&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e"/>
 
 </div>
 
@@ -109,11 +115,11 @@ status:     building > planning
 
 <div align="center">
 
-## trophies
+## &nbsp;contribution graph
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=programmingxpert&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+[![Satyasundar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=programmingxpert&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=0d3169&hide_border=true&custom_title=contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -121,11 +127,11 @@ status:     building > planning
 
 <div align="center">
 
-## activity
+## &nbsp;trophies
 
 <br/>
 
-[![Satya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=programmingxpert&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=0d3169&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-profile-trophy.vercel.app/?username=programmingxpert&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 
 </div>
 
@@ -133,50 +139,36 @@ status:     building > planning
 
 <div align="center">
 
-## what i'm working on
+## &nbsp;current focus
 
 </div>
 
 <br/>
 
 ```
-▸  getting genuinely good at DSA — not "I know the concepts" good, actually good
-▸  going deep on AI/ML: from backprop math to building agents that do real things
-▸  shipping projects that can survive outside a localhost environment
-▸  contributing to open source consistently, not just for the green squares
-▸  hunting for an internship where the work is real and the codebase isn't a nightmare
+▸  DSA — not memorizing solutions, understanding why they work
+▸  ML fundamentals from scratch: linear algebra → backprop → architecture decisions
+▸  building a portfolio of projects that demonstrate systems thinking, not just code
+▸  learning how to read and contribute to production codebases
+▸  getting comfortable with ambiguity — the kind that real engineering jobs have
 ```
 
 ---
 
 <div align="center">
 
-## 2026 goals
-
-| area | target |
-|------|--------|
-| DSA | Leetcode 300+ — patterns > grinding |
-| AI/ML | solid on fundamentals, building end-to-end |
-| Projects | fewer but better — actual deployments |
-| Open Source | meaningful PRs, not readme fixes |
-| Internship | land one worth talking about |
-
-</div>
-
----
-
-<div align="center">
-
-## on the radar
+## &nbsp;goals — 2026 and beyond
 
 <br/>
 
-Things I'm actively studying right now — not aspirational, actually in progress:
-
-![Algorithms](https://img.shields.io/badge/-Algorithms_%26_Data_Structures-0d1117?style=flat-square&logo=leetcode&logoColor=FFA116)
-![ML Fundamentals](https://img.shields.io/badge/-ML_Fundamentals-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![LLM Applications](https://img.shields.io/badge/-LLM_Applications-0d1117?style=flat-square&logo=openai&logoColor=ffffff)
-![System Design](https://img.shields.io/badge/-System_Design-0d1117?style=flat-square&logo=amazondynamodb&logoColor=4053D6)
+| area | what i'm actually working toward |
+|------|----------------------------------|
+| **AI / ML** | solid theoretical base + end-to-end project experience |
+| **Systems** | understand distributed systems, design trade-offs |
+| **DSA** | Leetcode 300+ — pattern recognition, not grinding |
+| **Open Source** | meaningful contributions, not readme typo fixes |
+| **Internship** | a role with real impact and a codebase worth learning from |
+| **Long game** | ML engineering or research at a place that takes craft seriously |
 
 </div>
 
@@ -184,7 +176,23 @@ Things I'm actively studying right now — not aspirational, actually in progres
 
 <div align="center">
 
-## connect
+## &nbsp;what i'm reading / studying right now
+
+<br/>
+
+![Neural Networks](https://img.shields.io/badge/-Neural_Network_Fundamentals-0d1117?style=flat-square&logoColor=white&logo=pytorch&labelColor=161b22)
+![Transformers](https://img.shields.io/badge/-Transformer_Architecture-0d1117?style=flat-square&logo=openai&logoColor=white&labelColor=161b22)
+![Algorithms](https://img.shields.io/badge/-Algorithms_%26_Data_Structures-0d1117?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=161b22)
+![System Design](https://img.shields.io/badge/-Distributed_Systems_Concepts-0d1117?style=flat-square&logo=amazondynamodb&logoColor=4053D6&labelColor=161b22)
+![Linear Algebra](https://img.shields.io/badge/-Linear_Algebra_for_ML-0d1117?style=flat-square&logo=numpy&logoColor=013243&labelColor=161b22)
+
+</div>
+
+---
+
+<div align="center">
+
+## &nbsp;connect
 
 <br/>
 
@@ -194,16 +202,13 @@ Things I'm actively studying right now — not aspirational, actually in progres
 
 <br/>
 
-*open to interesting work — internships, collabs, or just a good conversation about code*
+*if you're working on something technically interesting and need someone who'll actually think about the problem — reach out.*
 
 <br/>
 
 ---
 
-<sub>
-somewhere a compiler is judging my variable names &nbsp;·&nbsp;
-<a href="https://github.com/programmingxpert">programmingxpert</a>
-</sub>
+<sub>still figuring it out, but figuring it out seriously &nbsp;·&nbsp; <a href="https://github.com/programmingxpert">@programmingxpert</a></sub>
 
 <br/>
 
